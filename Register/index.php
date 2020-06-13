@@ -9,7 +9,7 @@
         <?php
 
     
-echo 'hello';
+echo 'hello index user';
  
         ?>
     </body>
