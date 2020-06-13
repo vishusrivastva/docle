@@ -1,6 +1,5 @@
-# a Presence service, similar to that of google docs, which shows people that are currently viewing a particular doc.
-Login And Signin System Complete
-
+#Docle
+A Presence service, similar to that of google docs, which shows people that are currently viewing a particular doc.
 
 1. You would need to create both backend & frontend for this application.
 2. Create a basic user registration and authentication system.
